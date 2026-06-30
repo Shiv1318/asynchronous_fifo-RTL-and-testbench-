@@ -97,3 +97,7 @@ The correct implementation compares the **next write Gray pointer** with the syn
 - **RTL Design**
 - **Digital Design Verification**
 - **CDC Design Techniques**
+
+## Collaboration
+
+This project was collaboratively designed and implemented by **Shiv Kumar** and **Harsh Mishra**. Both contributors worked on the RTL design, verification, and project development.
